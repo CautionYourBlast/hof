@@ -66,7 +66,7 @@
     "travis-conditions": "0.0.0"
   },
   "optionalDependencies": {
-    "hof-theme-govuk": ">=2"
+    "hof-theme-govuk": "cautionyourblast/hof-theme-govuk#chore/update-govuk-frontend"
   },
   "pre-commit": [
     "test"
